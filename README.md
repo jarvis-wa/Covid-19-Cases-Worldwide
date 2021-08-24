@@ -1,4 +1,4 @@
-- This project includes three parts, both contains the case record by 2021-07-25.
+- This project includes three parts, all by analyzing the case record by 2021-07-25.
 1. Visualizing the accumulated Covid-19 Cases WorldWide
 2. Visualizing the monthly new cases confirmed in Canada
 3. Comparing the trend between the following countries: ['United States', 'India', 'Brazil', 'China','Canada'].
